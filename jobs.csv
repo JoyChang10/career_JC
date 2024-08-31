@@ -1,0 +1,308 @@
+id,site,job_url,job_url_direct,title,company,location,job_type,date_posted,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,company_industry,listing_type,emails,description,company_url,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,logo_photo_url,banner_photo_url,ceo_name,ceo_photo_url
+1.00942E+12,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009423908413,,NVIDIA 2025 Internships: Artificial Intelligence and Deep Learning,NVIDIA,"Santa Clara, CA",,2024-08-28,direct_data,hourly,18,71,USD,FALSE,,,,organic,,"*By* *submitting* *your resume,* *you?€?re**expressing interest in one of our 2025* *Artificial Intelligence or Deep Learning**I**nternship**s.* *We**?€?ll* *review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship* *opportunities**.*  
+
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society ?€? from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create.  
+
+Our internships offer an excellent opportunity to expand your career and get hands on with one of our industry leading Artificial Intelligence and Deep Learning teams. We?€?re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve.  
+
+Throughout the 12-week internship, students will work on projects that have a measurable impact on our business. We?€?re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field.  
+
+Potential Internships in this field include:
+Autonomous Vehicles* Developing and training state-of-the-art Deep Neural Networks for path generation
+* Collecting training datasets and real-time inference run-times using simulators/gyms as well as performing in-vehicle tests
+* Course or internship experience related to the following areas could be required: Computer Vision, Mapping, Localization, SLAM, Image Processing, Segmentation
+
+Deep Learning Applications & Algorithms* Developing algorithms for deep learning, data analytics, or scientific computing to improving performance of GPU implementations
+* Course or internship experience related to the following areas could be required: Deep Neural Networks, Linear Algebra, Numerical Methods and/or Computer Vision, Software Design, Computer Memory (Disk, Memory, Caches), CPU and GPU Architectures, Networking, Numeric Libraries, Embedded System Design and Development, Drivers, Real-Time Software
+
+Deep Learning Frameworks & Libraries* Building underlying frameworks and libraries to accelerate Deep Learning on GPUs
+* Contributing directly to software packages such as JAX, PyTorch, and TensorFlow, integrating the latest library (e.g., cuDNN) or CUDA features, performance tuning, and analysis
+* Optimizing core deep learning algorithms and libraries (e.g., CuDNN, CuBLAS), maintaining build, test, and distribution infrastructure for these libraries and deep learning frameworks on NVIDIA supported platforms
+* Course or internship experience related to the following areas could be required: Computer Architecture (CPUs, GPUs, FPGAs or other accelerators), GPU Programming Models, Performance-Oriented Parallel Programming, Optimizing for High-Performance Computing (HPC), Algorithms, Numerical Methods
+
+Robotics* Building the fundamental infrastructure and software platforms of our system, working at the very heart of the software system, which will power every robot and application built with Isaac
+* Course or internship experience related to the following areas could be required: Robotics, Autonomous Vehicles, Validation Frameworks for Machine Learning/Deep Learning, Operating Systems and Data Structures (threads, processes, memory, synchronization), Physics Simulation, Simulators, Computer Graphics, Version Control, Computer Vision, Cloud Technologies
+
+Machine Learning* Developing and maintaining the first-generation MLaaS (Machine Learning as a Service) Platform including data ingestion, data indexing, data labeling, visualization, dashboards, and data viewers
+* Course or internship experience related to the following areas could be required: Machine Learning, Deep Learning, Accelerated Computing, GPU Computing, Deep Learning Frameworks, NVIDIA RAPIDS
+
+What we need to see:* Currently pursuing a Bachelor's, Master's, or PhD degree within Electrical Engineering, Computer Engineering, Computer Science, Artificial Intelligence or a related field
+* Depending on the internship role, prior experience or knowledge requirements *could* include the following programming skills and technologies: C, C++, CUDA, Python, x86, ARM CPU, GPU, Linux, Direct3D, Vulkan, OpenGL, OpenCL, Spark, Perl, Bash/Shell Scripting, Container Tools (Docker/Containers, Kubernetes), Infrastructure Platforms (AWS, Azure, GCP), Data Technologies (Kafka, ELK, Cassandra, Apache Spark), React, Go
+  
+
+Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors.
+The hourly rate for our interns is 18 USD - 71 USD. Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.
+You will also be eligible for Intern benefits. *NVIDIA accepts applications on an ongoing basis.*
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",https://www.glassdoor.com/Overview/W-EI_IE7633.htm,,,,,,https://media.glassdoor.com/sql/7633/nvidia-squareLogo-1672943582283.png,,,
+4010557846,linkedin,https://www.linkedin.com/jobs/view/4010557846,,2025 Summer Internship ?€? Software Engineering,AeroVironment,"Moorpark, CA",,2024-08-28,,,,,,,,,,,,,https://www.linkedin.com/company/aerovironment,,,,,,,,,
+3994964572,linkedin,https://www.linkedin.com/jobs/view/3994964572,,Geophysical Data Scientist (Scientist II),Nevada National Security Sites,"Santa Barbara, CA",,2024-08-28,,,,,,,,,,,,,https://www.linkedin.com/company/nevada-national-security-sites,,,,,,,,,
+3941726402,linkedin,https://www.linkedin.com/jobs/view/3941726402,,SAP VC Data Programmer (45875),"Haas Automation, Inc.","Oxnard, CA",,2024-08-28,,,,,,,,,,,,,https://www.linkedin.com/company/haas-automation,,,,,,,,,
+4010633787,linkedin,https://www.linkedin.com/jobs/view/4010633787,,INTERDISCIPLINARY ENGINEER/SCIENTIST with Security Clearance,ClearanceJobs,"Ventura, CA",,2024-08-28,,,,,,,,,,,,,https://www.linkedin.com/company/clearancejobs,,,,,,,,,
+4011571590,linkedin,https://www.linkedin.com/jobs/view/4011571590,,Sr. Staff Engineer,HEICO,"Santa Barbara, CA",,2024-08-28,,,,,,,,,,,,,https://www.linkedin.com/company/heico-aerospace,,,,,,,,,
+4011461793,linkedin,https://www.linkedin.com/jobs/view/4011461793,,2025 Summer Internship - Software Engineering,WayUp,"Moorpark, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/wayup,,,,,,,,,
+4011513081,linkedin,https://www.linkedin.com/jobs/view/4011513081,,Data Engineer I/II,Atomica,"Goleta, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/atomica-mems,,,,,,,,,
+4011368479,linkedin,https://www.linkedin.com/jobs/view/4011368479,,DevSecOps Engineer,Cyber Job Central,"Ventura, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/cyber-job-central,,,,,,,,,
+4009440212,linkedin,https://www.linkedin.com/jobs/view/4009440212,,Sr. Embedded Linux Engineer,Survival Systems Staffing,"Ventura County, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/survival-systems,,,,,,,,,
+3993959513,linkedin,https://www.linkedin.com/jobs/view/3993959513,,Staff UI Engineer,LogicMonitor,"Santa Barbara County, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/logicmonitor,,,,,,,,,
+3993983591,linkedin,https://www.linkedin.com/jobs/view/3993983591,,System Integration & Test Engineer II,Raytheon,"Goleta, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/raytheon,,,,,,,,,
+3994087308,linkedin,https://www.linkedin.com/jobs/view/3994087308,,Systems Engineer II (Onsite),Raytheon,"Goleta, CA",,2024-08-27,,,,,,,,,,,,,https://www.linkedin.com/company/raytheon,,,,,,,,,
+4008427075,linkedin,https://www.linkedin.com/jobs/view/4008427075,,Lead Systems Engineer,Amoria Bond,"Goleta, CA",,2024-08-27,,,,,,,,,,,,,https://uk.linkedin.com/company/amoria-bond,,,,,,,,,
+4012851896,linkedin,https://www.linkedin.com/jobs/view/4012851896,,Associate Embedded Software Engineer/Embedded Software Engineer,GradBay,"Camarillo, CA",,,,,,,,,,,,,,,https://uk.linkedin.com/company/gradbay,,,,,,,,,
+3804126519,linkedin,https://www.linkedin.com/jobs/view/3804126519,,Sr. Automation Test/Software Engineer,Mercury Systems,"Oxnard, CA",,,,,,,,,,,,,,,https://www.linkedin.com/company/mercury-systems,,,,,,,,,
+3921147790,linkedin,https://www.linkedin.com/jobs/view/3921147790,,Engineer II - Test Integration,Arthrex,"Santa Barbara, CA",,,,,,,,,,,,,,,https://www.linkedin.com/company/arthrex,,,,,,,,,
+4012944576,linkedin,https://www.linkedin.com/jobs/view/4012944576,,Senior Software Engineer,CJ,"Santa Barbara, CA",,,,,,,,,,,,,,,https://www.linkedin.com/company/commission-junction,,,,,,,,,
+4010452140,linkedin,https://www.linkedin.com/jobs/view/4010452140,,Senior Software Engineer (Remote),RemoteWorker US,"Santa Barbara, CA",,,,,,,,,,,,,,,https://www.linkedin.com/company/remoteworkerus,,,,,,,,,
+3949797316,linkedin,https://www.linkedin.com/jobs/view/3949797316,,Systems Engineer,Sandvik,"Camarillo, CA",,,,,,,,,,,,,,,https://se.linkedin.com/company/sandvik,,,,,,,,,
+4011215241,linkedin,https://www.linkedin.com/jobs/view/4011215241,,Sr DevOps Engineer -Yocto,Arthrex,"Santa Barbara, CA",,,,,,,,,,,,,,,https://www.linkedin.com/company/arthrex,,,,,,,,,
+HPzW8yrg-uQiW4KAqcd5VA,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=HPzW8yrg-uQiW4KAqcd5VA,,"Sr. Data Scientist, Risk & Fraud",AppFolio,"Goleta, CA, USA",,2024-08-30,,,,,,,,,,organic,,"**Hi, We?€?re AppFolio** 
+
+
+
+
+
+
+
+ We?€?re innovators, changemakers, and collaborators. We?€?re more than just a software company ?€? we?€?re pioneers in cloud and AI who deliver magical experiences that make our customers?€? lives easier. We?€?re revolutionizing how people do business in the real estate industry, and we want your ideas, enthusiasm, and passion to help us keep innovating.
+ 
+
+
+
+
+
+
+ We're looking for an experienced Data Scientist with a strong background in machine learning, data analysis, and software engineering to automate and optimize risk detection processes for online transactions.
+ 
+
+
+
+
+
+
+**Your impact** 
+
+* Develop and implement advanced risk detection and fraud prevention systems
++ Collaborate with Payments cross-functional partners to understand business needs and define key risk indicators
++ Identify and surface variables that uncover risky behavior on the platform
++ Prototype, deploy, and maintain machine learning models for real-time fraud detection
++ Integrate detection algorithms into existing internal tools and workflows
++ Conduct ongoing research into emerging fraud techniques and adapt strategies accordingly
++ Continuously monitor and optimize system performance to ensure effectiveness against evolving criminal strategies
+
+* Develop comprehensive monitoring and analytical reporting solutions
++ Work closely with Risk and Fraud teams to understand emerging trends and reporting needs
++ Create tools for monitoring data outliers and trend shifts
++ Design and implement dashboards to visualize/investigate customer transaction patterns, account activity, and platform usage
++ Develop automated anomaly detection systems to flag unusual behavior
++ Build and maintain data pipelines to support real-time reporting and alerting
+
+* Collaborate across teams to analyze and communicate the holistic impact of risk and fraud on the payments business
++ Develop customer risk profiles for appropriate transaction handling and approval processes
++ Partner with product and business scientists/analysts to quantify fraud's effect on key metrics like customer retention, transaction volume, and revenue
++ Assist in creation of comprehensive dashboards linking fraud patterns to overall business performance
++ Conduct cross-functional analyses on how fraud detection strategy changes affect various business areas
++ Contribute to strategic planning sessions, aligning fraud prevention initiatives with broader business goals
+
+* Contribute to overall Data Science and Analytics infrastructure:
++ Develop reusable code libraries and modeling frameworks to support data apps, pipelines, and models across domains
++ Implement best practices for version control, documentation, and reproducibility
++ Collaborate on building scalable data assets that support both Payments and broader analytics needs
++ Participate in knowledge sharing sessions to elevate the team's collective capabilities in rapidly evolving data science technologies and techniques
+
+
+
+
+
+
+
+
+**Qualifications** 
+
+* Technical skills ?€? should be able to research and implement various advanced analytical techniques needed to manage and scale our Risk & Fraud teams. Candidates should not only have the mathematical background to understand the pros and cons of various techniques, but also the engineering prowess to deploy and manage these models.
+* Business acumen ?€? understands key challenges facing our business and partners with key stakeholders to find creative ways to apply data science to solve them; connects dots between data & business outcomes
+* Attention to detail ?€? appropriately checks all work for errors and does not let important details slip when it comes to data and its accuracy
+* Creative problem solving - able to use creativity and curiosity as tools to pick apart any problem, producing a solution which is relevant and realistic
+* Efficiency ?€? able to quickly iterate on data generation and refinement. Looks for ways to improve processes to maximize efficiency and remove redundancy
+* Curiosity - always striving to learn more, keeping up to date with the latest tools and techniques being applied in industry.
+
+
+
+
+
+
+
+
+**Must have** 
+
+* Bachelor?€?s Degree in a STEM field and minimum 4-6 years experience in a related field
+* Strong programming background (Python, SQL, R, etc.)
+* Experience working with real-time payments/transactional data
+* Experience developing, deploying, and monitoring machine learning models
+* Experience creating, managing, and scaling data pipelines for reporting purposes
+* Experience using cloud-based technologies and working in collaborative environments with version control
+* Listening and interpersonal skills; ability to support, work, and communicate with cross functional partners in both technical and business terms
+* Highly self-motivated and directed
+* Proven analytical and creative problem-solving abilities
+* Ability to effectively prioritize and execute tasks in a high-pressure environment
+
+
+
+
+
+
+
+
+**Nice to Have** 
+
+* Experience in risk or anomaly assessment/detection
+* Experience using dbt (data build tool)
+* Experience using orchestration tools such as Airflow, Luigi, Dagster, etc.
+* Interest/knowledge working with LLMs
+* Experience as a mentor or tech lead on an analytics team
+
+
+
+**Compensation & Benefits** 
+
+
+ The base salary/hourly wage that we reasonably expect to pay for this role is: $127,000-$170,000
+ 
+
+ The actual base salary/hourly wage for this role will be determined by a variety of factors, including but not limited to: the candidate?€?s skills, education, experience, etc.??
+ 
+
+ Please note that base pay is one important aspect of a compelling Total Rewards package. The base pay range indicated here does not include any additional benefits or bonuses/commissions that you may be eligible for based on your role and/or employment type.
+   
+
+  
+
+ Regular full-time employees are eligible for benefits - see here.
+ 
+
+
+ #LI-KB1",,,,,,,,,,
+igY-l_Y8wsLHpe_3TnCtQg,zip_recruiter,https://www.ziprecruiter.com/jobs//j?lvk=igY-l_Y8wsLHpe_3TnCtQg,,"Sr. Data Scientist, Risk & Fraud",AppFolio,"Goleta, CA, USA",,2024-08-30,,,,,,,,,,organic,,"Hi, We?€?re AppFolio
+ 
+
+
+
+
+
+
+ We?€?re innovators, changemakers, and collaborators. We?€?re more than just a software company ?€? we?€?re pioneers in cloud and AI who deliver magical experiences that make our customers?€? lives easier. We?€?re revolutionizing how people do business in the real estate industry, and we want your ideas, enthusiasm, and passion to help us keep innovating.
+ 
+
+
+
+
+
+
+ We're looking for an experienced Data Scientist with a strong background in machine learning, data analysis, and software engineering to automate and optimize risk detection processes for online transactions.
+ 
+
+
+
+
+
+
+ Your impact??
+ 
+* Develop and implement advanced risk detection and fraud prevention systems
++ Collaborate with Payments cross-functional partners to understand business needs and define key risk indicators
++ Identify and surface variables that uncover risky behavior on the platform
++ Prototype, deploy, and maintain machine learning models for real-time fraud detection
++ Integrate detection algorithms into existing internal tools and workflows
++ Conduct ongoing research into emerging fraud techniques and adapt strategies accordingly
++ Continuously monitor and optimize system performance to ensure effectiveness against evolving criminal strategies
+
+* Develop comprehensive monitoring and analytical reporting solutions
++ Work closely with Risk and Fraud teams to understand emerging trends and reporting needs
++ Create tools for monitoring data outliers and trend shifts
++ Design and implement dashboards to visualize/investigate customer transaction patterns, account activity, and platform usage
++ Develop automated anomaly detection systems to flag unusual behavior
++ Build and maintain data pipelines to support real-time reporting and alerting
+
+* Collaborate across teams to analyze and communicate the holistic impact of risk and fraud on the payments business
++ Develop customer risk profiles for appropriate transaction handling and approval processes
++ Partner with product and business scientists/analysts to quantify fraud's effect on key metrics like customer retention, transaction volume, and revenue
++ Assist in creation of comprehensive dashboards linking fraud patterns to overall business performance
++ Conduct cross-functional analyses on how fraud detection strategy changes affect various business areas
++ Contribute to strategic planning sessions, aligning fraud prevention initiatives with broader business goals
+
+* Contribute to overall Data Science and Analytics infrastructure:
++ Develop reusable code libraries and modeling frameworks to support data apps, pipelines, and models across domains
++ Implement best practices for version control, documentation, and reproducibility
++ Collaborate on building scalable data assets that support both Payments and broader analytics needs
++ Participate in knowledge sharing sessions to elevate the team's collective capabilities in rapidly evolving data science technologies and techniques
+
+
+
+
+
+
+
+
+ Qualifications??
+ 
+* Technical skills ?€? should be able to research and implement various advanced analytical techniques needed to manage and scale our Risk & Fraud teams. Candidates should not only have the mathematical background to understand the pros and cons of various techniques, but also the engineering prowess to deploy and manage these models.
+* Business acumen ?€? understands key challenges facing our business and partners with key stakeholders to find creative ways to apply data science to solve them; connects dots between data & business outcomes
+* Attention to detail ?€? appropriately checks all work for errors and does not let important details slip when it comes to data and its accuracy
+* Creative problem solving - able to use creativity and curiosity as tools to pick apart any problem, producing a solution which is relevant and realistic
+* Efficiency ?€? able to quickly iterate on data generation and refinement. Looks for ways to improve processes to maximize efficiency and remove redundancy
+* Curiosity - always striving to learn more, keeping up to date with the latest tools and techniques being applied in industry.
+
+
+
+
+
+
+
+
+ Must have
+ 
+* Bachelor?€?s Degree in a STEM field and minimum 4-6 years experience in a related field
+* Strong programming background (Python, SQL, R, etc.)
+* Experience working with real-time payments/transactional data
+* Experience developing, deploying, and monitoring machine learning models
+* Experience creating, managing, and scaling data pipelines for reporting purposes
+* Experience using cloud-based technologies and working in collaborative environments with version control
+* Listening and interpersonal skills; ability to support, work, and communicate with cross functional partners in both technical and business terms
+* Highly self-motivated and directed
+* Proven analytical and creative problem-solving abilities
+* Ability to effectively prioritize and execute tasks in a high-pressure environment
+
+
+
+
+
+
+
+
+ Nice to Have
+ 
+* Experience in risk or anomaly assessment/detection
+* Experience using dbt (data build tool)
+* Experience using orchestration tools such as Airflow, Luigi, Dagster, etc.
+* Interest/knowledge working with LLMs
+* Experience as a mentor or tech lead on an analytics team
+
+
+
+ Compensation & Benefits
+ 
+
+ The base salary/hourly wage that we reasonably expect to pay for this role is: $127,000-$170,000
+ 
+
+ The actual base salary/hourly wage for this role will be determined by a variety of factors, including but not limited to: the candidate?€?s skills, education, experience, etc.??
+ 
+
+ Please note that base pay is one important aspect of a compelling Total Rewards package. The base pay range indicated here does not include any additional benefits or bonuses/commissions that you may be eligible for based on your role and/or employment type.
+   
+
+  
+
+ Regular full-time employees are eligible for benefits - see here.
+ 
+
+
+ #LI-KB1",,,,,,,,,,
