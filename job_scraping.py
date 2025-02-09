@@ -1,7 +1,7 @@
 import csv
-from jobspy import scrape_jobs
+import jobspy
 
-jobs = scrape_jobs(
+jobs = jobspy.scrape_jobs(
     site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor"],
     search_term=["data analyst", "data scientist", "technology consultant"],
     location="",
