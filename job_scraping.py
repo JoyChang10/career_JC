@@ -3,9 +3,9 @@ from jobspy import scrape_jobs
 
 jobs = scrape_jobs(
     site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor"],
-    search_term="data analytics",
+    search_term=["data analyst", "data scientist", "technology consultant"],
     location="",
-    results_wanted=20,
+    results_wanted=50,
     hours_old=72, # (only Linkedin/Indeed is hour specific, others round up to days old)
     country_indeed='USA',  # only needed for indeed / glassdoor
     job_type='internship',
